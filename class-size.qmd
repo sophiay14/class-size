@@ -2,5 +2,16 @@
 title: "Class Size"
 author: "Sophia Yao"
 format: html
+execute: 
+  echo: FALSE
 ---
+
+```{r}
+#| setup
+#| message: FALSE
+library(tidyverse)
+library(tidybayes)
+library(gtsummary)
+library(brms)
+```
 
